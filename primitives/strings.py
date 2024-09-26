@@ -68,6 +68,7 @@ print(email[0:51])
 assert email.endswith("@domain.com")
 
 
+
 # Форматируем
 
 a = "Hello"
